@@ -1,8 +1,8 @@
 ### *Structure of the Shell Prompt*
 
-[root@localhost~]# \n
-[armour@localhost~]$ \n
-[username @ hostname current location} root/user
+[root@localhost~]# <br>
+[armour@localhost~]$ <br>
+[username @ hostname current location} root/user <br>
 
 1. **[user@hostname current_directory]**
 
